@@ -1,13 +1,14 @@
 ﻿# Features
- -Create NFT
- -List NFT for selling
- -Buy NFT
+- Create NFT
+- List NFT for selling
+- Buy NFT
+
 
  #Tech Stack
- -Solidity (for smart contract)
- -Next.js
- -Metamask wallet integration
- -Tailwindcss
+ - Solidity (for smart contract)
+ - Next.js
+ - Metamask wallet integration
+ - Tailwindcss
 
  ### Prerequisites
  
@@ -25,9 +26,10 @@
 
 ### Environment Variables
 
-NEXT_PUBLIC_PINATA_API_KEY
-and
-NEXT_PUBLIC_PINATA_API_SECRET
+ NEXT_PUBLIC_PINATA_API_KEY
+- 
+ NEXT_PUBLIC_PINATA_API_SECRET
+- 
 
 get pinata api key and api secret key from pinata.cloud
 
